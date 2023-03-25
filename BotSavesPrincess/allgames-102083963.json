@@ -1,0 +1,1 @@
+[{"id":7164537,"inputs":"{\n   \"index\" : 0,\n   \"length\" : 1,\n   \"next\" : \"\",\n   \"page\" : 1,\n   \"payload\" : [ \"3\\n--p\\n-m-\\n---\" ],\n   \"previous\" : \"\"\n}\n","outputs":"{\n   \"index\" : 0,\n   \"length\" : 1,\n   \"next\" : \"\",\n   \"page\" : 1,\n   \"payload\" : [ \"UP\\nRIGHT\\n\" ],\n   \"previous\" : \"\"\n}\n","player-1":"deepchandk"}]
